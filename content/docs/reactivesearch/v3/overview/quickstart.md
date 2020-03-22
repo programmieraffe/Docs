@@ -70,6 +70,8 @@ class App extends Component {
 		);
 	}
 }
+
+export default App;
 ```
 
 This is how the app should look after running the `yarn start` command.
